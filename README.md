@@ -1,16 +1,24 @@
 # nft_marketplace_picture_app_in_flutter
 
-A new Flutter project.
+#### Github Link : https://github.com/dudecoderr/nft_marketplace_picture_app_ui_in_flutter.git
 
-## Getting Started
+                               
+# Changelog
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Note: _**last updated january 2023 configured project to latest flutter version 3.7.5**_
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src="https://raw.githubusercontent.com/dudecoderr/nft_marketplace_picture_app_ui_in_flutter/main/assets/Readme.jpg" width="200%">
+</p>
+
+**Packages used:**
+
+ - flutter_screenutil: ^5.6.0
+ - flutter_staggered_grid_view: ^0.4.0
+ - glassmorphism: ^3.0.0
+ - swipeable_button_view: ^0.0.2
+ - get: any
+ - phlox_animations: ^2.1.1
+ - matrix4_transform: ^2.0.1
